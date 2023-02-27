@@ -1,0 +1,15 @@
+{
+  "name": "base-apparel-coming-soon-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss ./dist/css/style.css"
+  },
+  "keywords": [],
+  "author": "Souleymane Sy",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.58.1"
+  }
+}
